@@ -1,12 +1,4 @@
-/*var count=34;
-count++;
-console.log("Server is running");
-console.log(count);
 
-
-//CTL + SHIFT + C   
-
-*/
 
 var express =require("express");  //lib-----Node Module
 var app=express();  // will create app object from express package
